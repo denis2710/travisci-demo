@@ -9,4 +9,3 @@ cache:
 
 script:
   - npm run test #caso você tenha algum teste para ser rodado
-  - bash ./deploy.sh
